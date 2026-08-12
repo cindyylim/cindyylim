@@ -22,11 +22,18 @@ MCP server for automating GitHub pull-request workflows, CI/CD monitoring, and d
 
 ### Technologies
 
-**Languages:** TypeScript · JavaScript · Python · Java · SQL
-**Frontend:** React · Next.js · Redux · Tailwind CSS
-**Backend:** Node.js · Express · Spring Boot
-**Data & Infrastructure:** MongoDB · PostgreSQL · Redis · AWS · Docker
-**Engineering:** REST APIs · Testing · CI/CD · Distributed Systems · AI/LLM Integration
+**Languages**: Java, Python, JavaScript, TypeScript, HTML, CSS
+
+**AI / Agentic**: LLM APIs, MCP, tool-use/agent workflows, prompt design, output validation, TensorFlow, supervised/unsupervised ML 
+
+**Frontend**: React, Redux, TypeScript, Tailwind CSS, GraphQL
+
+**Databases**: SQL Server, Redis, PostgreSQL, MongoDB
+
+**Backend / Cloud**: Node.js, Express, Spring, AWS (EC2, S3), Git
+
+**Testing**: JUnit, Cucumber, Cypress, Selenium
+
 
 ### More
 
