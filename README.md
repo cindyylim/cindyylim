@@ -4,8 +4,6 @@
 
 I build full-stack applications and backend systems, with a focus on reliable, scalable software and practical applications of AI.
 
-Currently exploring **AI engineering, distributed systems, and developer tooling** while continuing to deepen my full-stack engineering skills.
-
 ### Featured Projects
 
 **[File Sync](https://github.com/cindyylim/FileShareApp)**
