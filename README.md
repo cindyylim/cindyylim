@@ -12,9 +12,6 @@ Cloud file synchronization system built with React, Node.js, MongoDB, Socket.io,
 **[TicketHub](https://github.com/cindyylim/ticket-system)**
 High-traffic ticket booking system featuring Redis distributed locking, caching, BullMQ queues, and Server-Sent Events for real-time availability.
 
-**[AI Language Learning](https://github.com/cindyylim/LanguageLearningApp)**
-Full-stack language learning application that generates personalized exercises with generative AI and tracks learning progress.
-
 **[MCP PR Workflow Server](https://github.com/cindyylim/MCP-PR-Workflow-Server)**
 MCP server for automating GitHub pull-request workflows, CI/CD monitoring, and developer notifications.
 
