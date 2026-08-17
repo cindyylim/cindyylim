@@ -2,7 +2,7 @@
 
 **Software Engineer · Full Stack · AI Applications**
 
-I build full-stack applications and backend systems, with a focus on reliable, scalable software and practical applications of AI.
+I build full-stack applications and backend systems, with a focus on practical applications of AI.
 
 ### Featured Projects
 
