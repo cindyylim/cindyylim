@@ -21,7 +21,7 @@ MCP server for automating GitHub pull-request workflows, CI/CD monitoring, and d
 
 **AI / Agentic**: LLM APIs, MCP, tool-use/agent workflows, prompt design, output validation, TensorFlow, supervised/unsupervised ML 
 
-**Frontend**: React, Redux, TypeScript, Tailwind CSS, GraphQL
+**Frontend**: React, Redux, GraphQL
 
 **Databases**: SQL Server, Redis, PostgreSQL, MongoDB
 
