@@ -15,6 +15,11 @@ High-traffic ticket booking system featuring Redis distributed locking, caching,
 **[MCP PR Workflow Server](https://github.com/cindyylim/MCP-PR-Workflow-Server)**
 MCP server for automating GitHub pull-request workflows, CI/CD monitoring, and developer notifications.
 
+**[Language Learning App](https://github.com/cindyylim/LanguageLearningApp/)**
+An AI-powered language learning application that generates personalized quizzes using OpenAI for adaptive learning experiences. Deployed with Render. Link: https://languagelearningapp-z0ca.onrender.com/login
+
+
+
 ### Technologies
 
 **Languages**: Java, Python, JavaScript, TypeScript, HTML, CSS
