@@ -21,10 +21,10 @@ An AI-powered language learning application that generates personalized quizzes 
 
 
 ### Technologies
-
 **Languages**: Java, Python, JavaScript, TypeScript, HTML, CSS
 
-**AI, Agentic and Testing **: LLM APIs, MCP, tool-use/agent workflows, prompt design, output validation, JUnit, Cucumber, Cypress, Selenium
+**AI, Agentic and Testing**: LLM APIs, MCP, tool-use/agent workflows, prompt design, output validation, JUnit, Cucumber, Cypress, Selenium
+
 **Frontend and Data**: React, Redux, GraphQL,SQL Server, Redis, PostgreSQL, MongoDB
 
 **Backend and Cloud**: Node.js, Express, Spring, AWS (EC2, S3), Git
