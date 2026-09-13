@@ -6,29 +6,30 @@ I'm a software engineer focused on building full-stack and backend systems, with
 
 ## Featured Projects
 ### TicketHub 
+#### Book tickets reliably, even when demand spikes.
+
+A ticket-booking platform for reserving seats at high-demand events. Browse available tickets, join the queue when an event is busy, and receive real-time availability updates as seats are booked.
 [View Repository](https://github.com/cindyylim/ticket-system)
 
-Full-stack ticket booking system designed for concurrent bookings, using Redis distributed locking, caching, BullMQ background jobs, and Server-Sent Events for real-time seat availability.
-
-
 ### File Sync 
+#### Keep your files in sync across devices.
+
+Upload files to the cloud and access them from multiple devices without manually refreshing or reloading. Changes made on one device are automatically reflected across your connected devices.
 [View Repository](https://github.com/cindyylim/FileShareApp)
-
-Cloud file synchronization system using AWS S3 multipart uploads and MongoDB Change Streams to synchronize files across devices in real time.
-
 
 
 ### MCP PR Workflow Server 
+#### Automate the busywork around GitHub pull requests.
+
+Connect an AI assistant to your GitHub workflow to inspect pull requests, monitor CI/CD, summarize changes, update PRs, and notify your team when action is needed.
 [View Repository](https://github.com/cindyylim/MCP-PR-Workflow-Server)
 
-MCP server for automating GitHub PR workflows, CI/CD monitoring, and Slack notifications, with built-in input validation, allowlists, prompt-injection protection, and secret redaction.
-
-
-
 ### Language Learning App 
+#### Turn your vocabulary into personalized practice.
+
+Learn a new language with AI-generated vocabulary and quizzes tailored to what you're learning. Practice across multiple question types, track your progress, and reinforce words with spaced repetition.
 [View Repository](https://github.com/cindyylim/LanguageLearningApp)
 
-AI-powered language learning application using OpenAI to generate personalized vocabulary and quizzes, with progress tracking, multiple languages, and spaced repetition.
 
 
 [Live Demo](https://languagelearningapp-z0ca.onrender.com/login)
