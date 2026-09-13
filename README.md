@@ -29,11 +29,21 @@ Connect an AI assistant to your GitHub workflow to inspect pull requests, monito
 
 Learn a new language with AI-generated vocabulary and quizzes tailored to what you're learning. Practice across multiple question types, track your progress, and reinforce words with spaced repetition.
 [View Repository](https://github.com/cindyylim/LanguageLearningApp)
-
-
-
 [Live Demo](https://languagelearningapp-z0ca.onrender.com/login)
 
+
+### MyShelf
+Track what you read. Discover what to read next.
+
+Discover books, manage your personal reading shelf, track your progress, and connect with other readers through reviews, follows, and book clubs.
+[View Repository](https://github.com/cindyylim/MyShelf)
+[Live Demo](https://goodreads-frontend-rp56.onrender.com/login)
+
+### Newsletter Triage
+Turn newsletter overload into a short daily digest.
+
+Automatically collect newsletters from RSS feeds, use AI to summarize the most relevant content, organize it by topic, and deliver the results directly to Telegram.
+[View Repository](https://github.com/cindyylim/NewsletterTriage)
 ## Technical Skills
 
 Languages: TypeScript · JavaScript · Java · Python · C# · HTML · CSS
